@@ -1,4 +1,4 @@
-![Screenshot 2025-07-09 223633](https://github.com/user-attachments/assets/bae6a2bc-64c4-4eb9-9cd5-f2b20136767b)## ADHD Reddit Post Classification using ML & LSTM
+## ADHD Reddit Post Classification using ML & LSTM
 
 This project explores machine learning and deep learning techniques to classify Reddit posts as ADHD-related or not. Using user-generated Reddit data, the models aim to support early mental health screening and detection.
 
